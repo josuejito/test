@@ -1,0 +1,19 @@
+clases de html 
+En esta clase aprendí a como hacer pagina web sencilla solo usando html, Se divide en dos primero en head es donde especifica al navegador algunos parámetros y se le pone también titulo a la pagina y el body es donde va la información de la pagina web
+
+<html>
+    <head>
+        <title></title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <h1></h1>       
+    </boby>
+</html>
+
+<h1></h1>  esta etiqueta funciona para hacer encabezados y también sirven para que se encuentre mas rápida nestra pagina web
+<p></p>    Esta etiqueta sirve para hacer párrafos 
+<br>       para hacer saltos en un párrafo 
+<strong>   para poner negrita
+<i></i>  esto sirve para ponerlo en cursiva 
+<u></u>     sirve para subrayar 
